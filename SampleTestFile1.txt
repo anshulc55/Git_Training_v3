@@ -7,3 +7,6 @@ Modification in File 1
 This is Comparion lecture
 
 This is Stash lecture, Change in File 1
+
+More new changes 6/21 2:26pm
+More new changes 6/21 3:43pm
