@@ -3,3 +3,5 @@ Hello this is SSH Base Connection
 This is test file for sample download.
 
 And this is another commit form local machine.
+
+New Changes
