@@ -5,3 +5,6 @@ This is Comparion lecture, Change in File 2
 This is Stash lecture, Change in File 2
 
 New Changes at 2:20
+Comparison lecture 0n 7/21 2:24pm
+
+New Change on 7/24 3:18pm - testing git branch hot_fix_1
