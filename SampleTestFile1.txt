@@ -17,3 +17,4 @@ Add new change on 7/21 2:16pm to test gif diff
 Comparison lecture 0n 7/21 2:23pm
 
 Change for Git Branch on 7/24 3:18pm - changed made in hot_fix_1 branch 4:34pm
+New Change - testing Stash on 7/24 5:48pm
